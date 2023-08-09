@@ -740,7 +740,7 @@ p {
 }
 
 #contact{
-  border: rgb(134 27 27 / 90%) dashed;
+  border: rgb(134 27 27 / 90%) dotted;
   padding: 15px; 
   background-color: #f7f7f7;
 }
